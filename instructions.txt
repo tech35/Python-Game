@@ -1,0 +1,9 @@
+Objective:
+
+You are the yellow block and you need to dodge the blue blocks.
+
+Use the arrow keys to move
+
+The more blocks that you dodge the more score that you get.
+
+Try to get the highest score that you can get. (my personal best is 134)
