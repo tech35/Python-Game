@@ -1,7 +1,8 @@
 # Python-Game
-A simple game made in python.
 
-Made through: pygame, random, sys, and Python 3.9.1
+<img src="https://img.shields.io/badge/Made%20With-Python-yellow.svg" alt="Made With Python">
+
+Made through: pygame, random, sys,
 
 To install Python 3.9.1 [click here.](https://www.python.org/downloads/)
 
