@@ -1,5 +1,7 @@
 # Python-Game
 
+![GitHub repo size](https://img.shields.io/github/repo-size/tech35/Python-Game?label=Repository%20File%20Size&style=plastic)
+
 <img src="https://img.shields.io/badge/Made%20With-Python-yellow.svg" alt="Made With Python">
 
 Made through: pygame, random, sys,
